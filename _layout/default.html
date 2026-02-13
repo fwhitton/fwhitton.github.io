@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+    }
+    .sidebar {
+      width: 220px;
+      background: #f4f4f4;
+      padding: 20px;
+      height: 100vh;
+    }
+    .sidebar a {
+      display: block;
+      margin-bottom: 10px;
+      text-decoration: none;
+      color: black;
+    }
+    .content {
+      flex: 1;
+      padding: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="sidebar">
+    <h2>My Site</h2>
+    <a href="/">Home</a>
+    <a href="/blog">Blog</a>
+    <a href="/about">About</a>
+    <a href="/research">Research</a>
+  </div>
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+</body>
+</html>
