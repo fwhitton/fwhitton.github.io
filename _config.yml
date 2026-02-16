@@ -1,7 +1,8 @@
 title: Finlay Whitton
-description: Mathematics | Spectral Geometry | Research
 theme: minima
 
 header_pages:
   - blog.md
   - about.md
+
+footer: false
