@@ -1,8 +1,4 @@
 title: Finlay Whitton
 theme: minima
 
-header_pages:
-  - blog.md
-  - about.md
-
 footer: false
