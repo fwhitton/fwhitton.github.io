@@ -7,7 +7,11 @@ Over the summer I spent a week or so playing with a problem Steven Strogatz prop
 
 Before solving this it is helpful to think of another problem with a similar solution, which I encountered in Pólya's 'How To Solve It'. Imagine 2 ships sailing the high seas, of which we are given starting positions and constant velocities. We're asked how we might find the minimum distance between the ships. Of course an energetic teenager might parametrise both paths by time, find the pythagorean distance between the ships and fix the derivative of it equal to zero to find the time of closest approach, perhaps being so precocious as to neglect the square root. But my sagacity compels me simplify this problem with two arbitrary moving parts to a problem with only one, by attaching myself to one of the moving parts. In this case it pays to be a captain on a ship with the egocentric view that the world *literally* revolves around you, rather than having the 'objective' birds eye view: working in the reference frame of one of the ships, I can view my ship as stationary. Then the other ship is moving with velocity "theirs minus mine" and the problem reduces to finding the minimal distance between a point and a line, which occurs when the joining line is perpendicular.
 
-<img src="assets/images/Figure_1.png" alt="Spiral" >
+<p style="text-align:center;">
+  <img src="{{ '/assets/images/Figure-1.png' | relative_url }}" 
+       alt="Spiral"
+       width="500">
+</p>
 
 Something similar occurs when studying Kelvin-Helmholtz instabilities: the situation where two layers of fluid are moving horizontally at different velocities. We find, using the Bernoulli principle at the interface of the fluids, that the fluids must have equal speeds in opposite directions: this proves no problem, as we can always swap to a reference frame moving at the average of the two velocities. The takeaway here is that, although you might have a favourite reference frame, the universe does not.
 
