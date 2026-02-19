@@ -2,3 +2,9 @@ title: Finlay Whitton
 theme: minima
 
 footer: false
+
+header_pages:
+  - about.md
+  - blog.md
+  - cv.md
+
