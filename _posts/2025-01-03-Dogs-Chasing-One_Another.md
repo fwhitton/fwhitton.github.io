@@ -6,7 +6,7 @@ date: 2025-01-03
 Over the summer I spent a week or so playing with a problem Steven Strogatz proposed on an episode of the 3B1B podcast, which goes as follows: 4 dogs sit on the corners of a square. At some instant, each dog begins chasing the dog in the next clockwise corner, each with equal speed. The dogs chase each other in a spiral and eventually meet in the centre. How far does each dog travel before the collision? 
 
 Before solving this it is helpful to think of another problem with a similar solution, which I encountered in Pólya's 'How To Solve It'. Imagine 2 ships sailing the high seas, of which we are given starting positions and constant velocities. We're asked how we might find the minimum distance between the ships. Of course an energetic teenager might parametrise both paths by time, find the pythagorean distance between the ships and fix the derivative of it equal to zero to find the time of closest approach, perhaps being so precocious as to neglect the square root. But my sagacity compels me simplify this problem with two arbitrary moving parts to a problem with only one, by attaching myself to one of the moving parts. In this case it pays to be a captain on a ship with the egocentric view that the world *literally* revolves around you, rather than having the 'objective' birds eye view: working in the reference frame of one of the ships, I can view my ship as stationary. Then the other ship is moving with velocity "theirs minus mine" and the problem reduces to finding the minimal distance between a point and a line, which occurs when the joining line is perpendicular.
-
+![Spirali](assets/images/Figure-1.png)
 <p style="text-align:center;">
   <img src="assets/images/Figure-1.png" alt="Spiral" width="500">
 </p>
