@@ -46,7 +46,11 @@ This generates the image shown in the last post
 ![Spiral](/assets/images/Figure-1.png)
 
 There are no crazy operations here: once I have the starting positions, all I need to do is addition, subtraction, multiplication and find a distance. But there's no such thing as a free lunch: the inherent limitation is that the resulting curve is made up of many straight line segments. Ok, to rectify this we could make k smaller? then the curves would definitely look smoother. They'd look smoother and smoother until I made k zero, when there would be no curves at all because the dogs wouldn't move. So somehow we want to consider a theoretical 'limiting' curve with no corners that the curves get closer to as k gets closer to zero, without it actually being 0. This is the arena of calculus. Reframed in calculus terms, we have 4 curves and the tangent vector to each curve is the direction vector between a point on one curve and the corresponding point on the next (normalised to have fixed length). We are looking for 4 curves, each parametrised by time, satisfying initial conditions: 
+
 $$x_1(0) = i, x_2(0) = 1, x_3(0) = -i, x_4(0) = -1.$$
+
 The direction vector from a point to another is the position vector of the destination minus the position vector of the starting point so equating this to the tangent vectors gives:
-$$\dot{x_1} = x_2 - x_1,\cdots,\dot{x_4} = x_1 - x_4$$
+
+$$\dot{x}_1 = x_2 - x_1,\cdots,\dot{x}_x = x_1 - x_4$$
+
 This is a coupled system of 4 ordinary differential equations. Is it worth actually solving this system? I'm not sure the solution is all that illuminating. Instead let's focus on two regimes presented above: is either preferable? This problem is fairly mundane but getting into anything spicier such as fluid flow our analytic methods fail and we rely on the numerics of computers. Is this a win for the programmers? A sign that the analytic (myself included) are overreaching with their bag of tricks and ultimately it is the programmers who will instruct the rockets how to evacuate Earth? I think we both have much to learn from each other.
