@@ -7,7 +7,7 @@ This is my CV.
 # Teaching experience
 ## Academic:
 - 2024-25 Calculus I Teaching Assistant (Durham University)
-- 2024=25 Linear Algebra I Teaching Assistant (Durham University)
+- 2024-25 Linear Algebra I Teaching Assistant (Durham University)
 - 2026 Complex Analysis Teaching Assistant (Heriot-Watt University)
 
 ## Non-academic:
