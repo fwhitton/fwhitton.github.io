@@ -43,6 +43,7 @@ plt.gca().set_aspect('equal')
 plt.show()
 ```
 This generates the image shown in the last post
+
 ![Spiral](/assets/images/Figure_1.png)
 
 There are no crazy operations here: once I have the starting positions, all I need to do is addition, subtraction, multiplication and find a distance. But there's no such thing as a free lunch: the inherent limitation is that the resulting curve is made up of many straight line segments. Ok, to rectify this we could make k smaller? then the curves would definitely look smoother. They'd look smoother and smoother until I made k zero, when there would be no curves at all because the dogs wouldn't move. So somehow we want to consider a theoretical 'limiting' curve with no corners that the curves get closer to as k gets closer to zero, without it actually being 0. This is the arena of calculus. Reframed in calculus terms, we have 4 curves and the tangent vector to each curve is the direction vector between a point on one curve and the corresponding point on the next (normalised to have fixed length). We are looking for 4 curves, each parametrised by time, satisfying initial conditions: 
