@@ -33,7 +33,9 @@ $0 \leq y < x$
 
 Which describes a triangle in the lower right corner of our square:
 
+<p align="center">
 <img src="/assets/images/3.1.png" alt="Triangle" Width="200">
+</p>
 
 What about for $k = 1$? This corresponds to the region
 
@@ -41,11 +43,15 @@ $x \leq y < 2x$
 
 Which describes a wedge bounded by the lines $y = x$, $y = 2x$ and $y = 1$:
 
+<p align="center">
 <img src="/assets/images/3.2.png" alt="Wedge" Width="200">
+</p>
 
 Now what happens as I increase $k$? I get a family of wedges becoming steeper and thinner and getting closer to the vertical axis. But remember I'm asking about rounding down to an *even* number so I only care about the case when $k$ is even. This looks like the collection of triangles
 
+<p align="center">
 <img src="/assets/images/3.3.png" alt="Wedges" Width="200">
+</p>
 
 I've only drawn the first few but since there are infinitely many even numbers, there's a triangle for each even number and our challenge is to find the shaded area. This means finding the area of each triangle and adding all infinitely many of them together. 
 
