@@ -1,5 +1,5 @@
 ---
-Title: A Probability Problem That Uses No Probability: Part II
+Title: A Probability Problem That Uses No Probability Part II
 Date: 2025-01-06
 ---
 
