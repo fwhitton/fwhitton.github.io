@@ -21,7 +21,7 @@ $$= \int_0^1 \sum_{n=0}^\infty (-x)^ndx = \int_0^1 \frac{1}{1-(-x)}dx = \ln(1+x)
 
 And this is an integral that hopefully looks familiar! We can integrate directly, substitute the bounds and voila! While the first steps might have felt a little out the blue, let's review the structure of the argument. We had an infinite series, but we only know about the geometric series. So we transform this series into a geometric series inside an integral, apply our trusty formula then pull it out of the integral by computing an antiderivative. But if we're going to go to the effort of learning a trick, what's the fun in only using it once. I hear you scream "But Fin, can we calculate the values of any other series with this method?!" I'm so glad you ask. I include below a similar use, going the other direction this time and the explanations of the steps are identical to the above. I haven't set up the align environment in markdown yet.
 
-$$\pi/4 = \tan^{-1}(1) - \tan^{-1}(0) = \int_0^1 \frac{d}{dx} tan^{-1}(x)dx = \int_0^1 \frac{1}{x^2 + 1}dx$$
+$$\pi/4 = \tan^{-1}(1) - \tan^{-1}(0) = \int_0^1 \frac{d}{dx} \tan^{-1}(x)dx = \int_0^1 \frac{1}{x^2 + 1}dx$$
 
 Fundamental theorem of calculus invoked, now for the geometric series:
 
