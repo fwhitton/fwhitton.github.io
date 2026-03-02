@@ -9,7 +9,7 @@ We are trying to prove that a certain alternating series is equal to the natural
 
 Firstly we'll do a clever rewriting: the feeling of adding and subtracting fractions might trigger a memory of computing the definite integral of a polynomial.
 
-$$1 - \frac12 + \frac13 - \frac14 + \cdots = \left[x- \frac{x^2}{2} + \frac{x^3}{3} - \frac{x^4}{4] + \cdots\right]_0^1$$
+$$1 - \frac12 + \frac13 - \frac14 + \cdots = \left[x- \frac{x^2}{2} + \frac{x^3}{3} - \frac{x^4}{4} + \cdots\right]_0^1$$
 
 Then the Fundamental Theorem of Calculus allows us to write this back in terms of an integral:
 
