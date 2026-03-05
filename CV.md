@@ -19,4 +19,5 @@ This is my CV.
 - On three occasions across 2023-2025 I have gone into Liverpool Bluecoat School to deliver a talk to A-level maths students about some maths at university.
 - I took part in the Maths Circles project at Edinburgh University in 2025
 - I was a Royal Institute Masterclass supervisor in 2026
+- I am on the organising committee for the MACS PhD Student Seminar Series at Heriot-Watt
 
