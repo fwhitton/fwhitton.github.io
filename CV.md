@@ -12,7 +12,7 @@ This is my CV.
 
 ## Non-academic:
 - Maths tutor (Mytutor): 2021-2024
-- Maths tutor (freelance): 2023-2025
+- Maths tutor (Freelance): 2023-2025
 - English teacher as part of Gotoco Thailand TEFL program (June-August 2024)
 
 ## Outreach:
