@@ -11,4 +11,7 @@ Now for an abuse of induction: all horses are the same colour. The argument goes
 
 I encourage you try and find the mistake yourself if it doesn't jump out at you immediately. Pause and ponder as 3B1B would say. I even left a hint in the post somewhere. 
 
+<img src="\assets\images\Horses.png" alt="Horses" width=300>
+
+The problem is subtle as the base case is certainly true and the induction step is almost perfect, except for the case $n = 2$. In that case we can look at the 2 subsets of size 1 and conclude that in each subset every horse is the same colour (as there is only one) but it is fallacious to conclude that the 2 are the same colour, since the subsets don't overlap.
 
