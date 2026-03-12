@@ -9,3 +9,8 @@ The RBC is a linear combination of the Neumann and Dirichlet boundary conditions
 $$
 \frac{\partial u}{\partial \nu} + \alpha u = 0
 $$
+on the boundary of my domain, where the first term denotes the normal derivative to the boundary (could be replaced with $\nabla u \cdot \mathbf{\nu}) and $\alpha$ is some real parameter describing physical properties of the medium. If $\alpha =0$ then this is the Neumann condition and if $\alpha = \infty$ then this is the Dirichlet condition. We could define a new parameter $t$ such that $\alpha = t/(1-t)$ for $0\leq t\leq 1$ and this makes the Robin condition
+$$
+tu + (1-t)\frac{\partial u}{\partial \nu} = 0
+$$
+which makes the linear interpolation between the two conditions more obvious. But how do we go the other way and derive this from a statement like `partially insulated' or `elastically supported'?
