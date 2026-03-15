@@ -48,7 +48,7 @@ Now we'll consider a specific instance a statement to be evidence for the genera
 
 <img src="/assets/images/Raven.png" alt="Raven" width=350>
 
-The statement seems nonsensical at first glance but is logically coherent. In fact the Bayesian framework explains this well. A black raven and a non-black non-raven both provide evidence however the relative probabilities involved mean that the latter provides a much smaller amount of evidence.
+The statement seems nonsensical at first glance but is logically coherent.  A black raven and a non-black non-raven both provide evidence for our claim, however the Bayesian framework allows us to consider the relative probabilities involved, quantifying the fact that the latter provides a much smaller amount of evidence.
 
 
 
