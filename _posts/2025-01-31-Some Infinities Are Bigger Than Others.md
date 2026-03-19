@@ -5,7 +5,7 @@ Date: 2025-01-31
 
 This post is dedicated to RA and this meme he sent me. This post is a little longer than usual, but hopefully it seems small in proportion to its topic.
 
-<img src="infinity.png" alt="meme" width=300>
+<img src="/assets/images/infinity.png" alt="meme" width=300>
 
 In *The Fault In Our Stars*, Hazel-Grace boldy proclaims that "some infinities are bigger than others" citing the fact that there are more numbers between $0$ and $10$ than between $0$ and $1$. If I were marking her work then she would get a drawing of a donut because, although her conclusion is correct, she used woefully misinformed reasoning to reach it. Let's dig in.
 
