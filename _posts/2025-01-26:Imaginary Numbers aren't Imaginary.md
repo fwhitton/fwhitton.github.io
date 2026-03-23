@@ -16,7 +16,9 @@ b
 \begin{pmatrix}
 c\\
 d
-\end{pmatrix} $=$ \begin{pmatrix}
+\end{pmatrix}
+\neq
+\begin{pmatrix}
 a + c\\
 b + d
 \end{pmatrix}
