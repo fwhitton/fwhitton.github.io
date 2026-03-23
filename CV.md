@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-To give an idea of the areas of maths in which I'm formally trained, I've attached my undergraduate transcript here. Since starting my PhD I've taken assessed courses on
+To give an idea of the areas of maths in which I'm formally trained, I've attached my undergraduate transcript <a href="/assets/000936769_TRANSCRIPT.pdf">here</a>. Since starting my PhD I've taken assessed courses on
 - Analytic and asymptotic methods
 - Thermodynamic properties of black holes
 - Numerical methods
