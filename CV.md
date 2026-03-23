@@ -8,6 +8,7 @@ To give an idea of the areas of maths in which I'm formally trained, I've attach
 - Thermodynamic properties of black holes
 - Numerical methods
 - The revival/fractality dichotomy in parabolic PDEs.
+
 # Teaching experience
 ## Academic:
 - 2024-25 Calculus I Teaching Assistant (Durham University)
@@ -19,9 +20,12 @@ To give an idea of the areas of maths in which I'm formally trained, I've attach
 - Maths tutor (Freelance): 2023-2025
 - English teacher as part of Gotoco Thailand TEFL program (June-August 2024)
 
-## Outreach:
+# Outreach:
 - On three occasions across 2023-2025 I have gone into Liverpool Bluecoat School to deliver a talk to A-level maths students about some maths at university.
 - I took part in the Maths Circles project at Edinburgh University in 2025
 - I was a Royal Institute Masterclass supervisor in 2026
 - I am on the organising committee for the MACS PhD Student Seminar Series at Heriot-Watt
+
+# Hobbies:
+Outside of maths I like to run, cycle, and climb. I was President of Durham University Triathlon Club in AY23/24 and I've completed endurance events for charity, including a 100km run and a 330km gravel cycling race.
 
