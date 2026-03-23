@@ -12,4 +12,14 @@ $$
 a\\
 b
 \end{pmatrix}
++
+\begin{pmatrix}
+c\\
+d
+\end{pmatrix}
+=
+\begin{pmatrix}
+a + c\\
+b + d
+\end{pmatrix}
 $$
