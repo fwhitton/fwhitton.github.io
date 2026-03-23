@@ -2,8 +2,12 @@
 layout: default
 title: CV
 ---
-This is my CV.
 
+To give an idea of the areas of maths in which I'm formally trained, I've attached my undergraduate transcript here. Since starting my PhD I've taken assessed courses on
+- Analytic and asymptotic methods
+- Thermodynamic properties of black holes
+- Numerical methods
+- The revival/fractality dichotomy in parabolic PDEs.
 # Teaching experience
 ## Academic:
 - 2024-25 Calculus I Teaching Assistant (Durham University)
