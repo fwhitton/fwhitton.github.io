@@ -23,7 +23,9 @@ a + c\\
 b + d
 \end{pmatrix}
 $$
+
 And this obeys all the things we like about addition of real numbers, namely the order of addition doesn’t matter, adding zero changes nothing and adding something to its negative gives us zero. The natural next question is how can we define multiplication for vectors in $\mathbb{R}^2$? The naïve approach would be to define an operation $\star$ such that
+
 $$
 \begin{pmatrix}
 a\\
@@ -40,7 +42,9 @@ ac\\
 bd
 \end{pmatrix}
 $$
+
 Here I’ve used the star so I can reserve the multiplication symbol for later. Again, this does some the nice things we like about multiplication of real numbers but there’s a subtle problem: this is not coordinate independent. When we multiply vectors in $\mathbb{R}^2$ the result shouldn’t depend on how we orient the coordinate axes. More generally, the relationship between vectors should be *basis independent*. It shouldn't matter if we rotate our vectors and then multiply or if we multiply and then rotate the result. If $\rho$ is a rotation then
+
 $$
 \rho
 \left(
@@ -67,7 +71,9 @@ c\\
 d
 \end{pmatrix}
 $$
-But if $\rho$ is a rotation anti-clockwise by $45^\circ$ then 
+
+But if $\rho$ is a rotation anti-clockwise by $45^\circ$ then for example
+
 $$
 \rho
 \left(
@@ -87,7 +93,6 @@ $$
 1/\sqrt{2}
 \end{pmatrix}
 \star
-\rho
 \begin{pmatrix}
 1/\sqrt{2}\\
 1/\sqrt{2}
