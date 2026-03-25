@@ -1,6 +1,7 @@
 ---
 title: "Dogs Chasing One Another"
 date: 2025-01-03
+image: /assets/images/Figure_1.png
 ---
 
 Over the summer I spent a week or so playing with a problem Steven Strogatz proposed on an episode of the 3B1B podcast, which goes as follows: 4 dogs sit on the corners of a square. At some instant, each dog begins chasing the dog in the next clockwise corner, each with equal speed. The dogs chase each other in a spiral and eventually meet in the centre. How far does each dog travel before the collision? 
