@@ -1,6 +1,6 @@
 ---
 title: "Why Time is a Dimension"
-Date: 2026-01-15
+Date: 2025-01-15
 ---
 This post is dedicated to KP and our relentless debate on this matter.
 
