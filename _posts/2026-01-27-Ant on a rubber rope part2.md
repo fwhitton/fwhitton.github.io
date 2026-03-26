@@ -23,7 +23,7 @@ $$\frac{1}{c + kv} > \frac{1}{kc + kv}$$
 
 so that 
 
-$$p(n) > \frac{a}/{c+v}\left(1 + \frac12 + \frac13 + \frac14 + \cdots + \frac1n\right).$$
+$$p(n) > \frac{a}{c+v}\left(1 + \frac12 + \frac13 + \frac14 + \cdots + \frac1n\right).$$
 
 Now this sum is more commonly known as a partial sum of the harmonic series and in fact it can be made as big as we like by taking enough terms! What that means is that $p(n)$ can be made as large as we like by taking $n$ large enough, so it can definitely reach 1.
 
