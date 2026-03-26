@@ -1,6 +1,6 @@
 ---
 Title: "Ant on a rubber rope part 2"
-Date: 2026-01-27
+Date: 2025-01-27
 ---
 
  In the Ant on a Rubber Rope post I mentioned a discrete solution that I found very pleasing and I plan to present it here. I would normally recoil from anything that smells of 'discrete maths' but I think it turns out to be far more enlightening as the gut feeling that the ant *shouldn't* reach the end of the rope is the same feeling that the harmonic series *should* converge.
