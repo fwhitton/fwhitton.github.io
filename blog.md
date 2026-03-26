@@ -6,7 +6,7 @@ Hello and welcome to my blog! This is blog is intended as an expository and non-
 <ul>
 <div style="
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: 1fr;
   gap: 25px;
   margin-top: 20px;
 ">
@@ -46,5 +46,3 @@ Hello and welcome to my blog! This is blog is intended as an expository and non-
   {% endfor %}
 </div>
 </ul>
-
-</div>
