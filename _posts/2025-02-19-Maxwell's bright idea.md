@@ -16,7 +16,7 @@ $$
 We've got these constants $\mu_0$ and $\varepsilon_0$ baked into the equations and these are known as *vacuum permeability* and *vacuum permittivity* respectively, whatever that means. What's important is that these are features of the universe and all observers can agree on their value. Taking the time derivative of the first equation and commuting it across the curl gives us:
 
 $$
-\frac{\partial^2 \mathbf{B}{\partial t^2} = -\nabla \times \frac{\partial \mathbf{E}}{\partial t} = -\frac{1}{\mu_0 \varepsilon_0} \nabla \times (\nabla \times \mathbf{B})
+-\frac{\partial^2 \mathbf{B}}{\partial t^2} = \nabla \times \frac{\partial \mathbf{E}}{\partial t} = \frac{1}{\mu_0 \varepsilon_0} \nabla \times (\nabla \times \mathbf{B})
 $$
 
 where in the second equality we've used the equation for the time derivative of the electric field. Can we say anything about the curl of a curl? We can and because I find index notation therapeutic, I'll even include the details:
