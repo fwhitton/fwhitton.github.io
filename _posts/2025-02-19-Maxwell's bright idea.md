@@ -47,11 +47,16 @@ $$
 \mathbf{B} = \mathbf{B}_0 e^{i(\mathbf{k} \cdot x - \omega t)}
 $$
 
-So the waves travel in the direction of $\mathbf{k} and oscillate in the directions of $\mathbf{E}_0$ and $\mathbf{B}_0$ respectively. Using Maxwell's equation that the curl of the electric field is minus the time derivative of the magnetic field, the time derivative brings down a factor $i\omega$ and the spatial derivative is $i\mathbf{k}$ so we find
+So the waves travel in the direction of $\mathbf{k}$ and oscillate in the directions of $\mathbf{E}_0$ and $\mathbf{B}_0$ respectively. Using Maxwell's equation that the curl of the electric field is minus the time derivative of the magnetic field, the time derivative brings down a factor $i\omega$ and the spatial derivative is $i\mathbf{k}$ so we find
 
 $$
 i\mathbf{k} \times \mathbf{E}_0 = i\omega \mathbf{B}_0
 $$
 
 Meaning that the oscillations in the magnetic field are orthogonal to the oscillations in the electric field and also orthogonal to the direction of travel!
+
+<img src="/assets/images/EM.gif" alt="EMwave" width=300>
+
+What about this funny constant $\mu_0 \varepsilon_0$? It takes the place of the inverse square of the wave speed in the formula and lo and behold $(\mu_0 \varepsilon_0)^{-1/2} \approx 3\times 10^8 m/s$. But this poses a problem. These are just constants of nature and so the speed of light must be too. But classical Gallilean relativity says that someone travelling along next to a beam of light would perceive it as stationary, despite the fact that they would agree with us about Maxwell's equations and reach the same conclusion as us. This posed a huge issue for physicists and necessesitated the overhaul of Gallilean relativity and the arrival of special relativity. Enter: Einstein.
+
 
