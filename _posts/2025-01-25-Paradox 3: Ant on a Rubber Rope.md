@@ -1,6 +1,7 @@
 ---
-Title: "Ant on a Rubber Rope"
+Title: "Paradox 3: Ant on a Rubber Rope"
 Date: 2025-01-25
+image: /assets/images/Ant.png
 ---
 
 In the previous post we mercilessly mocked an ant who was condemned to spend its entire life falling and so couldn't distinguish time from height. In this post about the next paradox we similarly toy with an ant, but this time the ant prevails in the end!
