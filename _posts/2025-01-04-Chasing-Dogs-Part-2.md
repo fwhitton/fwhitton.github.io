@@ -1,3 +1,7 @@
+---
+title: "Dogs Chasing One Another Part 2"
+date: 2025-01-04
+image: /assets/images/Figure_1.png
 Following the problem from yesterday, I thought it'd be an insightful activity to model the situation in python. Here is the code I wrote which uses some rudimentary numpy. In no way am I suggesting that my code is optimal.The first block of code is simply importing several packages I'll need to use. Matplotlib is used to generate images, numpy makes it much easier to do operations with lists of numbers and cmath means I can use complex numbers 1 + 2j rather than lists [1,2].
 
 ```python
@@ -44,9 +48,7 @@ plt.show()
 ```
 This generates the image shown in the last post
 
-<p align="center">
-![Spiral](/assets/images/Figure_1.png)
-</p>
+<img src="/assets/images/Figure_1.png" alt="spiral" width =200>
 
 There are no crazy operations here: once I have the starting positions, all I need to do is addition, subtraction, multiplication and find a distance. But there's no such thing as a free lunch: the inherent limitation is that the resulting curve is made up of many straight line segments. Ok, to rectify this we could make k smaller? then the curves would definitely look smoother. They'd look smoother and smoother until I made k zero, when there would be no curves at all because the dogs wouldn't move. So somehow we want to consider a theoretical 'limiting' curve with no corners that the curves get closer to as k gets closer to zero, without it actually being 0. This is the arena of calculus. Reframed in calculus terms, we have 4 curves and the tangent vector to each curve is the direction vector between a point on one curve and the corresponding point on the next (normalised to have fixed length). We are looking for 4 curves, each parametrised by time, satisfying initial conditions: 
 
