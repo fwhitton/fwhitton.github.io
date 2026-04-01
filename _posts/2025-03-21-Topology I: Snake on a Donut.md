@@ -27,8 +27,7 @@ Quite quickly it becomes clear that most shapes we distinguish geometrically (cu
 
 It is a powerful result (the Classification theorem) that every (orientable, compact, connected, boundary-less) surface can be classified simply by the number of holes it has (its genus) and so the torus is the 'simplest' shape which isn't homeomorphic to a sphere - it has just 1 hole. After a donut we have a pair of handcuffs and a fidget spinner.
 
-<img src = "/assets/images/genus2.png" alt="genus2" width=200>
-<img src = "/assets/images/genus2.png" alt="genus3" width=200>
+<img src = "/assets/images/genus2.png" alt="genus2" width=200><img src = "/assets/images/genus3.png" alt="genus3" width=200>
 
 One fundamental difference between the sphere and the torus is that the latter is not simply connected. If I take a loop on the surface of a sphere, I can shrink it (staying on the surface) to a point on the sphere. Pretty quickly I can image a loop on the surface of a torus which can't be shrunk to a point on the surface: it "gets caught on the hole".
 
