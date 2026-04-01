@@ -3,37 +3,36 @@ layout: default
 title: Blog
 ---
 Hello and welcome to my blog! This is blog is intended as an expository and non-rigourous treatment of some problems and topics in ~undergraduate maths, hopefully made accessible for anyone with a minimally mathematical background.
-<a href="{{ post.url }}" style="text-decoration: none; color: inherit;">
-  <div style="
-    border: 1px solid #e0e0e0;
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  "
-  onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.1)';"
-  onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.05)';"
-  >
+<div onclick="window.location='{{ post.url }}';" style="
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+"
+onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.1)';"
+onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.05)';"
+>
 
   {% if post.image %}
-      <img src="{{ post.image | relative_url }}" 
-           alt="{{ post.title }}"
-           style="width:100%; height:180px; object-fit: cover;">
-    {% endif %}
+    <img src="{{ post.image | relative_url }}" 
+         alt="{{ post.title }}"
+         style="width:100%; height:180px; object-fit: cover;">
+  {% endif %}
 
   <div style="padding: 15px;">
-      <h3 style="margin-top: 0;">
-        {{ post.title }}
-      </h3>
+    <h3 style="margin-top: 0;">
+      {{ post.title }}
+    </h3>
 
-  <p style="font-size: 0.85em; color: gray;">
-        {{ post.date | date: "%Y-%m-%d" }}
-      </p>
+    <p style="font-size: 0.85em; color: gray;">
+      {{ post.date | date: "%Y-%m-%d" }}
+    </p>
 
-  <p>
-        {{ post.excerpt | strip_html | truncate: 120 }}
-      </p>
-    </div>
-
+    <p>
+      {{ post.excerpt | strip_html | truncate: 120 }}
+    </p>
   </div>
-</a>
+
+</div>
