@@ -1,6 +1,6 @@
 ---
 title: "Three Proofs of The Infinitude of The Primes"
-date- 2025-11-04
+date: 2025-11-04
 ---
 
 A friend recently asked me "Have you seen the topological proof that there are infinitely many primes?" and I'm possibly in sparse company being excited by this sentence. It reminded me that I'd seen another insanely overpowered proof that there are infinitely many primes a while ago and so I'd like to present both of these along with Euclid's megaclassic proof.
