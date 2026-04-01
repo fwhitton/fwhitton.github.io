@@ -1,5 +1,5 @@
 ---
-title: "Dogs Chasing One Another Part 2"
+title: "Dogs Chasing One Another: Part 2"
 date: 2025-01-04
 image: /assets/images/Figure_1.png
 ---
