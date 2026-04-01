@@ -1,5 +1,5 @@
 ---
-title: "All horses are the same colour"
+title: "Paradox 1: All horses are the same colour"
 date: 2025-01-08
 image: \assets\images\Horses.png
 ---
