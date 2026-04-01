@@ -1,7 +1,7 @@
 ---
 title: "Why is it called Spectral Theory?"
 date: 2025-10-03
-imagesg: /assets/images/spectrum.png
+images: /assets/images/spectrum.png
 ---
 When I meet other PhD students and the unavoidable question 'What area of research are you in?' is asked, my answer varies between 'Analysis', 'Partial differential equations', 'Laplacian eigenvalues' and 'Spectral theory'. For now I'm sticking with the latter. But to someone who has never studied maths (and to many who have), it's not at all clear from the name what spectral theory entails. 
 
