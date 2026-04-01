@@ -1,6 +1,7 @@
 ---
 title: "Maxwell's bright idea"
 date: 2025-02-19
+image: /assets/images/EM.gif
 ---
 
 Our starting point is going to be Maxwell's equations for a magnetic field $\mathbf{B}$ and an electric field $\mathbf{E}$ in the absence of any charges:
