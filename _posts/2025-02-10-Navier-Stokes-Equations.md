@@ -1,10 +1,8 @@
 ---
-title: "Navier-Stokes equations part I"
+title: "Navier-Stokes Equations"
 Date: 2025-02-10
 ---
-This post is dedicated to BK. I've procrastinated this one because it's a huge topic and one quite important to me, learned from good teachers.
-
-Fluid mechanics is an interesting and important area to study in its own right: everything in the universe behaves in the same way when it gets hot enough. But for me it also served as the example model for ideas that crop up in areas from electromagnetism to the method of characteristics for first order non-linear PDEs. It's the perfect playground for vector calculus. Instead of trying to demonstrate the sheer breadth of the field, I present a quote from David Tong whose lecture notes serve as a great resource.
+This post is dedicated to BK. Fluid mechanics is an interesting and important area to study in its own right: everything in the universe behaves in the same way when it gets hot enough. But for me it also served as the example model for ideas that crop up in areas from electromagnetism to the method of characteristics for first order non-linear PDEs. It's the perfect playground for vector calculus. Instead of trying to demonstrate the sheer breadth of the field, I present a quote from David Tong whose lecture notes serve as a great resource.
 
 >"Fluid mechanics explains how oil flows through pipes and how the motion of the atmosphere manifests itself in the climate, and how many decades of focussing on the former has resulted in an urgent and desperate need to better understand the latter."
 
