@@ -1,6 +1,7 @@
 ---
-Title: "Paradoxes Part II: Ravens"
+Title: "Paradox 2: Ravens and Apples"
 Date: 2025-01-14
+image: /assets/images/Raven.png
 ---
 
 Just as the last paradox was an excuse to talk about proof by induction, this is an excuse to talk about some basic logic. Let's lay some foundations so that we're all swimming in the same pool. We're going to be playing with statements which I'm going to define loosely as something which makes sense to assign a truth value to. 
