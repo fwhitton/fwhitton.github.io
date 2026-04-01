@@ -1,7 +1,7 @@
 ---
 title: "Paradox 1: All horses are the same colour"
 date: 2025-01-08
-image: \assets\images\Horses.png
+image: /assets/images/Horses.png
 ---
 Before getting into the paradox, lets talk about proof by induction, a handy tool that is great for proving (or verifying) facts that we're told but awful at telling us why they're true. Induction is used to prove a statement about all whole numbers (perhaps after a point) and we start by showing that something is true for the smallest case, usually $n = 1$. Then we show that if the statement is true for some $n = k$, then it must be true for $n = k + 1$. Because it's true for $n = 1$ it must be true for $n = 2$. Now we know it's true for $n = 2$, we can conclude it for $n = 3$, and so on. A simple example is that we can reach any rung on a ladder because we can reach the first rung (the *base case*) and from any rung we can reach the next rung (the *induction step*).
 
@@ -11,7 +11,7 @@ Now for an abuse of induction: all horses are the same colour. The argument goes
 
 I encourage you try and find the mistake yourself if it doesn't jump out at you immediately. Pause and ponder as 3B1B would say. I even left a hint in the post somewhere. 
 
-<img src="\assets\images\Horses.png" alt="Horses" width=300>
+<img src="/assets/images/Horses.png" alt="Horses" width=300>
 
 The problem is subtle as the base case is certainly true and the induction step is almost perfect, except for the case $n = 2$. In that case we can look at the 2 subsets of size 1 and conclude that in each subset every horse is the same colour (as there is only one) but it is fallacious to conclude that the 2 are the same colour, since the subsets don't overlap.
 
