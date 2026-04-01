@@ -3,7 +3,6 @@ title: "Paradox 1: All horses are the same colour"
 date: 2025-01-08
 image: \assets\images\Horses.png
 ---
-
 Before getting into the paradox, lets talk about proof by induction, a handy tool that is great for proving (or verifying) facts that we're told but awful at telling us why they're true. Induction is used to prove a statement about all whole numbers (perhaps after a point) and we start by showing that something is true for the smallest case, usually $n = 1$. Then we show that if the statement is true for some $n = k$, then it must be true for $n = k + 1$. Because it's true for $n = 1$ it must be true for $n = 2$. Now we know it's true for $n = 2$, we can conclude it for $n = 3$, and so on. A simple example is that we can reach any rung on a ladder because we can reach the first rung (the *base case*) and from any rung we can reach the next rung (the *induction step*).
 
 The simplest example I can find is the sum of the first $n$ odd numbers is $n^2$. Firstly it's definitely true for $n = 1$ (and always worth checking for $n = 2$, $1 + 3 = 2^2$). Now suppose for some number $k$, the sum of the first $k$ odd numbers is $k^2$ (our *induction hypothesis*). Then adding the next odd number, which is $2k+1$, we get $k^2 + 2k + 1 = (2k+1)^2$, so if the statement holds for $n=k$ then it holds for $n=k+1$.
