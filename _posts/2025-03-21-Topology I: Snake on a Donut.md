@@ -1,6 +1,7 @@
 ---
 title: "Topology I: Snake on a Donut"
 date: 2025-03-21
+image: /assets/images/phone.jpg
 ---
 
 I'm of the age where my first phone housed only one game, snake. Snake is played in a rectangular world: if you try to escape out of one edge you are teleported to the opposite edge. It seems that modern iterations of the game have hardened the boundaries of the square, subverting my entire post but cast your mind back to when snake looked like this:
