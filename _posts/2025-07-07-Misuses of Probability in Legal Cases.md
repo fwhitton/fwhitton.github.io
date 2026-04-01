@@ -1,6 +1,7 @@
 ---
 title: "Misuses of Probability in Legal Cases"
 date: 2025-07-07
+image: /assets/images/OJ.png
 ---
 # O.J. Simpson
 In 1995 O.J. Simpson was acquitted of the murder of his ex-wife Nicole Brown and her friend Ronald Goldman. During the trial, it was accepted that Simpson had been violent towards Brown when they were married. The defence argued that only 1 in 2500 women who experience spousal abuse are murdered by their partner and so the probability Simpson murdered Brown was low. However, this is a gross misuse of conditional probability.
