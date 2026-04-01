@@ -1,6 +1,7 @@
 ---
 Title: "Some Infinities Are Bigger Than Others"
 Date: 2025-01-31
+image: /assets/images/infinity.png
 ---
 
 This post is dedicated to RA and this meme he sent me. This post is a little longer than usual, but hopefully it seems small in proportion to its topic.
