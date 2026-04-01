@@ -1,6 +1,7 @@
 ---
 Title: "A Probability Problem That Uses No Probability: Part 3"
 Date: 2025-01-07
+image: /assets/images/dice.png
 ---
 
 
