@@ -8,7 +8,7 @@ To begin with, what actually is a spectrum? The word comes from the Latin *spece
 
 When heated, each element emits specific wavelengths of light. These wavelengths of light are like a fingerprint, uniquely identifying the element (the identification is called spectroscopy). In fact this is how Helium got its name: an unknown spectral line was detected during an eclipse. 
 
-<img src="spectrum.png" alt="spectrum" width = 300>
+<img src="/assets/images/spectrum.png" alt="spectrum" width = 300>
 
 Let's look at the spectrum of the Hydrogen. Hydrogen is a fairly simple quantum system, consisting of an electron orbiting a proton. It was Max Planck who realised that the electron can only orbit at certain distances from the nucleus and so requires 'packets' energy (or *quanta*) to move between levels. Thus when an electron drops down a level it emits a photon with a particular amount of energy and the amount of energy is related (inversely proportionally) to the wavelength of emitted light. The gaps between energy levels are different, explaining why there are different wavelengths in the spectrum. 
 
@@ -26,7 +26,7 @@ Aside 1: while writing this I realised that not a single common quantity has an 
 Aside 2, for those inclined:  spectral theory in finite dimensional vector spaces is a little dull. We form the characteristic polynomial for a matrix and by the fundamental theorem of algebra we are guaranteed n roots, counted with multiplicity. Things get far more interesting in the infinite dimensional case: lets examine the equation $(T- \lambda I)x = 0$ a little more closely. In finite dimensions we have a theorem about when this equation has a non-trivial solution: precisely when the map $T-\lambda I$ has determinant 0. But in infinite dimensions we have no such criteria as to when the map $T-\lambda I$ is not invertible: not being bijective entails failing to be injective or surjective. In finite dimensions these concepts are equivalent but no longer. As a result we define firstly the resolvent set:
 
 $$
-\rho(T) = \{ \lambda \in \mathbb{C} : $T - \lambda I\text{ is bijective }\}
+\rho(T) = \{ \lambda \in \mathbb{C} : T - \lambda I\text{ is bijective}\}
 $$
 
 and the complement of the resolvent set in the complex numbers is the spectrum. Specifically if the map $T-\lambda I$ is not injective then there is a non-zero $x$ such that $(T-\lambda I)x = 0$, precisely the statement that $x$ is an eigenvector. The spectrum contains eigenvalues but also other points which only appear in infinite dimensional spaces, called the residual and continuous spectra. Further reading is left for the curious reader.
