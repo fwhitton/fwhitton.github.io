@@ -16,6 +16,11 @@ title: Finlay Whitton
   <img src="assets/images/pfp.jpg" alt="Headshot" width="180" style="border-radius: 10px;" style="float:left;width:42px;height:42px;"> 
   <img src="assets/images/IMG-20260303-WA0003.jpg" alt="me" width="200" style="border-radius: 10px;" style="float:left;width:42px;height:42px;"> 
   
-
+  <h2>Recent Posts</h2>
+  <ul>
+  {% for post in site.posts limit:3 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
 </body>
 </html>
