@@ -36,8 +36,9 @@ Hello and welcome to my blog! This blog is intended as an expository and non-rig
       </h3>
 
       <p style="font-size: 0.85em; color: gray;">
-        {{ post.date | date: "%Y-%m-%d" }}
-      </p>
+    {{ post.date | date: "%Y-%m-%d" }} · 
+    {{ post.content | number_of_words | divided_by: 200 }} min read
+    </p>
 
       <p style="margin-bottom: 0;">
         {{ post.excerpt | strip_html | truncate: 120 }}
