@@ -33,18 +33,18 @@ Taken assessed graduate courses in:
 
 ### Non-Academic Teaching
 
-* **Online Mathematics Tutor** | MyTutor (2021 – 2024)
-* **Freelance Mathematics Tutor** | 2023 – 2025
-* **TEFL English Teacher** | Gotoco (Thailand) (June – August 2024)
+* **Online Mathematics Tutor**  MyTutor (2021 – 2024)
+* **Freelance Mathematics Tutor**  (2023 – 2025)
+* **TEFL English Teacher**  Gotoco (Thailand) (June – August 2024)
 
 ---
 
 ## Academic Outreach
 
 * **Organising Committee Member** MACS PhD Seminar Series, Heriot-Watt University (2025 – Present)
-* **Masterclass Supervisor** | The Royal Institution (2026)
-* **Volunteer Instructor** | Maths Circles Project, University of Edinburgh (2025)
-* **Guest Speaker** | Liverpool Blue Coat School (2023 – 2025)
+* **Masterclass Supervisor**  The Royal Institution (2026)
+* **Volunteer Instructor**  Maths Circles Project, University of Edinburgh (2025)
+
 ---
 
 ## Co-Curricular & Leadership Roles
