@@ -49,7 +49,7 @@ Taken assessed graduate courses in:
 
 ## Co-Curricular & Leadership Roles
 
-* **President** | Durham University Triathlon Club (AY 2023 – 2024)
+* **President**  Durham University Triathlon Club (AY 2023 – 2024)
 
 * **Interests & Endurance Sports**:
 * **Running**: Completed a 100km run in 14 hours for Alzheimer’s Research UK.
