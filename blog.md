@@ -3,7 +3,8 @@ layout: default
 title: Blog
 ---
 
-Hello and welcome to my blog! This blog is intended as an expository and non-rigorous treatment of some problems and topics in undergraduate maths.
+# Hedonistic Calculus
+Hello and welcome to my blog! This blog is intended as an expository and non-rigorous treatment of some maths problems and topics at ~undergraduate level.
 
 <div style="
   display: grid;
