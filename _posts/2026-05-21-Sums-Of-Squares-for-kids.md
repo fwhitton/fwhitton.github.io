@@ -32,7 +32,7 @@ I have to mention that it is easy to prove the contrapositive of **(4b)** but th
 e.g. $5 = 2^2 + 1^2$ and $45 = 3^2 \times 5 = 3^2(2^2 + 1^2) = 3^2\times 2^2 + 3^2 \times 1^2= (3\times 2)^2 + (3\times 1)^2 = 6^2 + 3^2$.
 
 A number which is a product of prime numbers which are remainder $1$ can be written as as sum of squares and multiplying by a square number or a power of $2$ doesn't change whether a number can be written as a sum of squares. Now we have all the pieces.
-4
+
 > **(6)** A number can be written as a SoS if and only if when decomposed into prime factors, all the primes which are remainder $3$ multiply together to make a square number.
 
 Finally, some examples
