@@ -17,7 +17,7 @@ Imagine a bear sitting on the bank of a river with a fishing rod. It looks at th
 
 ## 4. Weak
 
-Suppose I want to loosen the sense of what it means for a function to have a derivatve. I can only differentiate some functions but I can integrate *way* more functions. Therefore it makes sense to ask for functions that satisfy conditions in integrals: integrals are blind to finite sets of points (and even sets of measure zero) and so is more lenient to functions with pesky discontinuities in their derivative like the absolute value $f(x) = |x|$. The way we phrase this is that a function is weakly differentiable if we can do integration by parts on it. Specifically, $u$ has weak derivative $v$ if for all smooth functions $\phi$, 
+Suppose I want to loosen the sense of what it means for a function to have a derivatve. I can only differentiate some functions but I can integrate *way* more functions. Therefore it makes sense to ask for functions that satisfy conditions in integrals: integrals are blind to finite sets of points (and even sets of measure zero) and so is more lenient to functions with pesky discontinuities in their derivative like the absolute value $f(x) =|x|$. The way we phrase this is that a function is weakly differentiable if we can do integration by parts on it. Specifically, $u$ has weak derivative $v$ if for all smooth functions $\phi$, 
 
 $$
 \int u(x)\phi'(x) = -\int v(x)\phi(x).
@@ -30,17 +30,18 @@ A small problem: by broadening the class of possible solutions to an equation, w
 I want to assign sizes to parts of a material in a consistent way. Two possible ways for me to do this are by measuring the volume or the mass of a chunk. Volume might seem like the natural choice but mass is just as good and they are related by the fact that if I know the density of the material (a positive function) $\rho$ then the mass of a subset, denoted $M(E)$, is related to the volume of that subset, denoted $V(E)$, by
 
 $$
-m(E) = \int_E f_{} {}_{} dV.
+m(E) = \int_E fdV.
 $$
 
 So in a sense we can build new measures (ways of assigning size to sets) out of old ones using a density function. The Radon-Nikodym theorem goes the other way and states that if I have two measures $\mu$ and $\nu$ with the property that $\nu(E)$ is $0$ whenever $\mu(E)$ is $0$ (specifically $\nu$ is absolutely continuous with respect to $mu$ which is written $\nu \ll \mu$) then there is a non-negative density function $f$ so that 
 
 $$
-\mu(E) = \int_E f_{} {}_{} d\nu
+\mu(E) = \int_E f d\nu
 $$
 
 and the density is called the Radon-Nikodym derivative and even denoted $f = \frac{d\mu}{d\nu}$.
 
 ## 2. Exterior
+
 
 ## 1. covariant
