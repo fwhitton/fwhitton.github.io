@@ -2,6 +2,7 @@
 Title: Top 7 types of derivative
 Date: 2026-05-22
 ---
+Welcome to watchmojo where I'll be counting down my top 7 favourite types of derivative.
 
 ## 7. Ordinary
 
@@ -17,7 +18,7 @@ Imagine a bear sitting on the bank of a river with a fishing rod. It looks at th
 
 ## 4. Weak
 
-Suppose I want to loosen the sense of what it means for a function to have a derivatve. I can only differentiate some functions but I can integrate *way* more functions. Therefore it makes sense to ask for functions that satisfy conditions in integrals: integrals are blind to finite sets of points (and even sets of measure zero) and so is more lenient to functions with pesky discontinuities in their derivative like the absolute value $f(x) =|x|$. The way we phrase this is that a function is weakly differentiable if we can do integration by parts on it. Specifically, $u$ has weak derivative $v$ if for all smooth functions $\phi$, 
+Suppose I want to loosen the sense of what it means for a function to have a derivatve. I can only differentiate some functions but I can integrate *way* more functions. Therefore it makes sense to ask for functions that satisfy conditions in integrals: integrals are blind to finite sets of points (and even sets of measure zero) and so is more lenient to functions with pesky discontinuities in their derivative like the absolute value $f(x) =\mid x\mid$. The way we phrase this is that a function is weakly differentiable if we can do integration by parts on it. Specifically, $u$ has weak derivative $v$ if for all smooth functions $\phi$, 
 
 $$
 \int u(x)\phi'(x) = -\int v(x)\phi(x).
@@ -43,5 +44,20 @@ and the density is called the Radon-Nikodym derivative and even denoted $f = \fr
 
 ## 2. Exterior
 
+The ordinary derivative, the gradient of a function and the curl of a vector field are all examples of the exterior derivative. This is a huge generalisation of familiar derivatives and some of our favourite facts from calculus are just examples of powerful theorems in differential geometry. If the exterior derivative is denoted $d$ then the fundamental theorem of calculus, Stokes theorem and the divergence theorem are all just examples of the fact
 
-## 1. covariant
+$$
+\int_{ C} d\alpha = \int_{\partial C} \alpha.
+$$ 
+
+Furthermore, facts like 'the curl of a gradient vanishes' and 'the divergence of a curl is zero' are special cases of the succinct fact
+
+$$
+d^2 = 0
+$$
+
+(as an operator).
+
+## 1. Covariant
+
+"A tensor is something that transforms like a tensor" is a horrible description but I don't have much better. General relativity seeks descriptions of a physical system which are independent of the observer making the description. Changes in perspective between observers manifests as coordinate transformations so we would like to keep track of how quantities change under coordinate transformations so that we're all measuring the same things. The gradient of a function is a tensor because if I scale my coordinate system in some way then by the chain rule the gradient will scale by some overall factor. But if I take the gradient of a tensor rather than a function and I change coordinates then the tensor will pick up a factor but the gradient is now acting on a product so I get a sum of terms. This is **not** how a tensor transforms and so our typical partial derivatives can't define a tensor. Thankfully we can define a new tensor by subtracting off that extra term that comes out of the product rule to construct something that **does** transform like a tensor: the covariant derivative. And this is what allows us to take derivatives in relativity and thus express some pretty important laws.
