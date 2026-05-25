@@ -2,7 +2,7 @@
 Title: Top 7 types of derivative
 Date: 2026-05-22
 ---
-Welcome to watchmojo where I'll be counting down my top 7 favourite types of derivative.
+Welcome to Watchmojo where I'll be counting down my top 7 favourite types of derivative.
 
 ## 7. Ordinary
 
@@ -31,7 +31,7 @@ A small problem: by broadening the class of possible solutions to an equation, w
 I want to assign sizes to parts of a material in a consistent way. Two possible ways for me to do this are by measuring the volume or the mass of a chunk. Volume might seem like the natural choice but mass is just as good and they are related by the fact that if I know the density of the material (a positive function) $\rho$ then the mass of a subset, denoted $M(E)$, is related to the volume of that subset, denoted $V(E)$, by
 
 $$
-m(E) = \int_E fdV.
+m(E) = \int_E \rho dV.
 $$
 
 So in a sense we can build new measures (ways of assigning size to sets) out of old ones using a density function. The Radon-Nikodym theorem goes the other way and states that if I have two measures $\mu$ and $\nu$ with the property that $\nu(E)$ is $0$ whenever $\mu(E)$ is $0$ (specifically $\nu$ is absolutely continuous with respect to $mu$ which is written $\nu \ll \mu$) then there is a non-negative density function $f$ so that 
@@ -40,7 +40,7 @@ $$
 \mu(E) = \int_E f d\nu
 $$
 
-and the density is called the Radon-Nikodym derivative and even denoted $f = \frac{d\mu}{d\nu}$.
+and the density is called the Radon-Nikodym derivative and denoted $f = \frac{d\mu}{d\nu}$.
 
 ## 2. Exterior
 
