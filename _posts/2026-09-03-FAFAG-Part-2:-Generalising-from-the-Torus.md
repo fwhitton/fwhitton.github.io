@@ -10,7 +10,7 @@ $$
 
 for any $m,n\in\mathbb{Z}$. Every point in space can be identified with a point in the unit square. We've identified points which differ by an element of the lattice $\mathbb{Z}^2$. In terms of groups, a lattice is an abelian (hence normal) subgroup and so we can take the quotient group $\mathbb{R}^2/\mathbb{Z}^2$. In fact, we can extend this to any number of dimensions and any (full rank) lattice $\Lambda$ to define the torus $\mathbb{T} = \mathbb{R}^n/\Lambda$.
 
-A lattice is a generalisation of $\mathbb{Z}^n$ and any lattice can be written $\Lambda = A \mathbb{Z}^n$ for some (non-degenerate) matrix $A$. We call a function on $\mathbb{R}^n$ "$\Lambda$-periodic$ if $f(x+\lambda) = f(x)$ for any point $x\in\mathbb{R}^n$ and any lattice point $\lambda\in\Lambda$. We naturally identify $\Lambda$-periodic functions on $\mathbb{R}^n$ with functions on the torus.
+A lattice is a generalisation of $\mathbb{Z}^n$ and any lattice can be written $\Lambda = A \mathbb{Z}^n$ for some (non-degenerate) matrix $A$. We call a function on $\mathbb{R}^n$ "$\Lambda$-periodic if $f(x+\lambda) = f(x)$ for any point $x\in\mathbb{R}^n$ and any lattice point $\lambda\in\Lambda$. We naturally identify $\Lambda$-periodic functions on $\mathbb{R}^n$ with functions on the torus.
 
 Once again we seek Laplacian eigenfunctions on the torus. They take the form
 
