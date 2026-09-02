@@ -1,5 +1,5 @@
 ---
-Title: Fourier Analysis for abelian Groups Part 1: Motivating Example
+Title: Fourier Analysis for abelian Groups Part 1 Motivating Example
 Date: 2026-09-02
 ---
 
