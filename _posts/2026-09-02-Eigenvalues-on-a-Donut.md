@@ -1,7 +1,7 @@
 ---
 Title: Eigenvalues on a Donut
 Date: 2026-09-02
-Image: /assets/images/torus.gif
+Image: /assets/images/notsimplyconnected.png
 ---
 
 This is the first in a (hopefully) three part series, building up to the Fourier Transform on a (locally compact) abelian group. This first post is purely a motivating example with few technicalities; in later posts we will proceed as per the mathematician's directive: 
