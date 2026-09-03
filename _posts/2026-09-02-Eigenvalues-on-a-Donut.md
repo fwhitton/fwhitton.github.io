@@ -7,9 +7,6 @@ This is the first in a (hopefully) three part series, building up to the Fourier
 
 >"Go forth and generalise."
 
-Let's bui
-
-
 <a href="https://fwhitton.github.io/2025/03/21/Topology-I-Snake-on-a-Donut.html">This post</a> contains more information abouts donuts (*tori* herein), but to recap we build one by gluing together the opposite edges of a square:
 
 <img src="/assets/images/torus.gif" alt="torus" width = 200>
