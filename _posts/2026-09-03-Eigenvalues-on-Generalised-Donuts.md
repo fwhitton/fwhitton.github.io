@@ -1,5 +1,5 @@
 ---
-Title: FAFAG Part 2 Generalising from the torus
+Title: Eigenvalues on Generalised Donuts
 Date: 2026-09-03
 ---
 Mathematically, what were we doing in the last post when we identified the opposite edges of a square to form a torus? We were really saying that two points in space are considered to be the same if they differ by $1$ horizontally or vertically. This defines an equivalence relation on the whole plane:
