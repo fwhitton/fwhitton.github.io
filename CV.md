@@ -7,6 +7,7 @@ A PDF version of my CV can be found <a href="/assets/Finlay_Whitton_CV.pdf">here
 ## Education
 
 **Heriot-Watt University: PhD in Mathematics**  (2025 - Present)
+
 Taken assessed graduate courses in:
 - The Revival/Fractality Dichotomy in Parabolic PDEs
 - Numerical Methods
@@ -22,11 +23,13 @@ Taken assessed graduate courses in:
 ## Teaching Experience
 
 ### Academic Teaching
-- **Teaching Assistant - Calculus** Heriot-Watt University (2026)
-- **Teaching Assistant - Maths for Engineers** Heriot-Watt University (2026)
-- **Teaching Assistant - Complex Analysis** Heriot-Watt University (2026)
-- **Teaching Assistant - Calculus & Linear Algebra** Durham University (2024 – 2025)
 
+I was a teaching assistant on the following courses:
+- Calculus, Heriot-Watt University (2026)
+- Maths for Engineers, Heriot-Watt University (2026)
+- Complex Analysis, Heriot-Watt University (2026)
+- Calculus, Durham University (2024-2025)
+- Linear Algebra, Durham University (2024 – 2025)
 
 ### Non-Academic Teaching
 
@@ -37,7 +40,7 @@ Taken assessed graduate courses in:
 ---
 
 ## Talks Given
-- "What Maths at University is really like" Liverpool Blue Coat School, June 2023, 2024, 2025
+- "What maths at university is really like" Liverpool Blue Coat School, June 2023, 2024, 2025
 - "Regularity of Laplacian Eigenfunctions" MIGS Conference, March 2026
 - "A Whistle-Stop Tour of Spectral Geometry" MACS PhD Seminar, June 2026
 ---
