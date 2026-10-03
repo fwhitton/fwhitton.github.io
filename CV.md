@@ -36,6 +36,18 @@ Taken assessed graduate courses in:
 
 ---
 
+## Talks Given
+- "What Maths at University is really like" Liverpool Blue Coat School, June 2023, 2024, 2025
+- "Regularity of Laplacian Eigenfunctions" MIGS Conference, March 2026
+- "A Whistle-Stop Tour of Spectral Geometry" MACS PhD Seminar, June 2026
+- 
+---
+
+## Publications
+Coming soon...
+
+---
+
 ## Academic Outreach
 
 * **Organising Committee Member** MACS PhD Seminar Series, Heriot-Watt University (2025 - Present)
