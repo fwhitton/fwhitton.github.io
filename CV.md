@@ -43,6 +43,7 @@ I was a teaching assistant on the following courses:
 - "What maths at university is really like" Liverpool Blue Coat School, June 2023, 2024, 2025
 - "Regularity of Laplacian Eigenfunctions" MIGS Conference, March 2026
 - "A Whistle-Stop Tour of Spectral Geometry" MACS PhD Seminar, June 2026
+
 ---
 
 ## Publications
