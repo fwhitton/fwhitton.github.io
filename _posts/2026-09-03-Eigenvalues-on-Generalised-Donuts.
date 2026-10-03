@@ -18,4 +18,4 @@ $$
 u_\xi(x) = \exp(2\pi i \langle \xi, x\rangle)
 $$
 
-and our job is to find $\xi\in\mathbb{R}^n$ that makes this $\Lambda$-periodic.
+and our job is to find $\xi\in\mathbb{R}^n$ that make this $\Lambda$-periodic.
