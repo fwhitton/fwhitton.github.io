@@ -2,7 +2,7 @@
 layout: default
 title: CV
 ---
-A PDF version of my CV can be found <a href="/assets/Finlay_Whitton_CV.pdf">here</a>.
+A (possibly outdated) PDF version of this CV can be found <a href="/assets/Finlay_Whitton_CV.pdf">here</a>.
 
 ## Education
 
@@ -13,6 +13,7 @@ Taken assessed graduate courses in:
 - Numerical Methods
 - Analytic and Asymptotic Methods
 - Thermodynamic Properties of Black Holes
+- Differential Topology
 
 **Durham University: MMath (Hons) in Mathematics**  (2021 - 2025)
 
@@ -25,7 +26,7 @@ Taken assessed graduate courses in:
 ### Academic Teaching
 
 I was a teaching assistant on the following courses:
-- Calculus, Heriot-Watt University (2026)
+- Calculus A, Heriot-Watt University (2026)
 - Maths for Engineers, Heriot-Watt University (2026)
 - Complex Analysis, Heriot-Watt University (2026)
 - Calculus, Durham University (2024-2025)
@@ -46,9 +47,9 @@ I was a teaching assistant on the following courses:
 
 ---
 
-## Publications
-Coming soon...
-
+## Written Work
+- Corner Regularity of Laplacian Eigenfunctions (pre-print) <a href="https://arxiv.org/abs/2610.09095">arxiv.org/abs/2610.09095</a>
+- Level 4 Project Report <a href="/assets/Project_Report.pdf"></a>
 ---
 
 ## Academic Outreach
