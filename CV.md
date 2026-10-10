@@ -2,7 +2,10 @@
 layout: default
 title: CV
 ---
+
 A (possibly outdated) PDF version of this CV can be found <a href="/assets/Finlay_Whitton_CV.pdf">here</a>.
+
+---
 
 ## Education
 
@@ -49,7 +52,8 @@ I was a teaching assistant on the following courses:
 
 ## Written Work
 - Corner Regularity of Laplacian Eigenfunctions (pre-print) <a href="https://arxiv.org/abs/2610.09095">arxiv.org/abs/2610.09095</a>
-- Level 4 Project Report <a href="/assets/Project_Report.pdf"></a>
+- Eigenvalues of the Robin Laplacian (Level 4 Project Report) <a href="/assets/Project_Report.pdf">here</a>.
+
 ---
 
 ## Academic Outreach
